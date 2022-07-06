@@ -2,3 +2,191 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
+
+
+h1 {
+    font-size: 50px;
+}
+
+.first {
+    background-image: url(image/donation1.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    margin-bottom: auto
+}
+
+.first-1 {
+    margin: 0;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+
+}
+
+.first-color {
+    color: white;
+}
+
+
+
+.link-one {
+    text-decoration: none;
+
+    background-image: linear-gradient(gold, rgb(207, 119, 4));
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.color {
+    color: rgb(34, 28, 28);
+}
+
+.donate {
+    text-align: center;
+}
+
+.donate-1 {
+    width: 150px;
+    height: 150px;
+    margin: 12px;
+    border: 1.5px solid white;
+    font-size: 35px
+}
+
+.donate-2 {
+    width: 150px;
+    height: 150px;
+    margin: 12px;
+    border: 1.5px solid rgb(237, 18, 98);
+    font-size: 35px;
+    color: tomato;
+    background-color: rgb(251, 215, 209);
+}
+
+.donate-3 {
+    text-align: center;
+}
+
+.donate-4 {
+    border: 0;
+    border-bottom: 2px solid gainsboro;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.donate-5 {
+    display: flex;
+    margin: 50px;
+}
+
+.donate-6 {
+    background-color: #E6E6E6;
+    margin: 10px;
+    padding: 40px 10px 5px 20px;
+    width: 33%;
+}
+
+.donate-7 {
+    background-color: #f6d0d0;
+    margin: 10px;
+    padding: 40px 10px 5px 20px;
+    width: 33%;
+}
+
+.donate-8 {
+    background-color: #FFEEEE;
+    margin: 10px;
+    padding: 40px 10px 5px 20px;
+    width: 33%;
+}
+
+.link-down {
+    text-decoration: none;
+
+    background-image: linear-gradient(gold, rgb(207, 119, 4));
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 2px;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 10px;
+
+}
+
+.donation-10 {
+    display: flex;
+    margin: 20px 50px;
+}
+
+.donation-9 {
+    width: 50%;
+    padding: 10px;
+    margin: 20px;
+    background-size: cover;
+
+}
+
+.donation-9 img {
+    width: 90%;
+}
+
+.donation-11 {
+    text-align: center;
+    margin: 0 25%;
+    margin-bottom: 45px;
+    padding: 60px;
+    background-color: #F6E4CF;
+}
+
+.donation-11 input {
+    text-align: left;
+    border: 0;
+    height: 20px;
+    background-color: rgb(246, 240, 240);
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    color: rgb(80, 75, 75);
+
+}
+
+.donation-11 button {
+    background-color: tomato;
+    text-align: center;
+    border: 0;
+    height: 20px;
+    color: white;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.donation-12 {
+    margin-top: 45px;
+    text-align: center;
+    height: 220px;
+    background-color: black;
+
+}
+
+.donation-12 h2 {
+    color: tomato;
+    font-family: lobster;
+
+}
+
+.donation-12 div {
+    padding-top: 45px;
+    padding-right: 30px;
+    color: white;
+}
